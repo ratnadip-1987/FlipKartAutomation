@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28658" started-at="2020-05-05T11:50:26Z" finished-at="2020-05-05T11:50:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28658" started-at="2020-05-05T11:50:26Z" finished-at="2020-05-05T11:50:55Z">
+      <class name="BasicTest.validateHoveronItem">
+        <test-method status="PASS" signature="setup()[pri:0, instance:BasicTest.validateHoveronItem@6bf256fa]" name="setup" is-config="true" duration-ms="21763" started-at="2020-05-05T17:20:26Z" finished-at="2020-05-05T17:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateLightBox()[pri:0, instance:BasicTest.validateHoveronItem@6bf256fa]" name="validateLightBox" duration-ms="326" started-at="2020-05-05T17:20:48Z" finished-at="2020-05-05T17:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLightBox -->
+        <test-method status="PASS" signature="validateSearchItemPage()[pri:0, instance:BasicTest.validateHoveronItem@6bf256fa]" name="validateSearchItemPage" duration-ms="5877" started-at="2020-05-05T17:20:48Z" finished-at="2020-05-05T17:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchItemPage -->
+        <test-method status="PASS" signature="validateuserNavigatedToPDP()[pri:0, instance:BasicTest.validateHoveronItem@6bf256fa]" name="validateuserNavigatedToPDP" duration-ms="663" started-at="2020-05-05T17:20:54Z" finished-at="2020-05-05T17:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateuserNavigatedToPDP -->
+      </class> <!-- BasicTest.validateHoveronItem -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
